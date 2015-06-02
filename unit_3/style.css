@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background: url(http://pixabay.com/get/16fba89a23a1d8c33e8b/1433276471/new-zealand-679068_1280.jpg?direct);
+	color: #000;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: thin;
+}
+
+h1 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+}
+hr {
+	width: 500px;
+	}
+
