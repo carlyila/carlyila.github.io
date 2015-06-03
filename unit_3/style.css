@@ -1,18 +1,45 @@
 body {
 	text-align: center;
-	background: url(http://pixabay.com/get/16fba89a23a1d8c33e8b/1433276471/new-zealand-679068_1280.jpg?direct);
-	color: #000;
+	background: url("http://fc01.deviantart.net/fs70/f/2012/082/2/f/blurry_texture__dark_by_dragoroth_stock-d4tow88.jpg");
+	background-size: cover;
+	color: #FFF;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-weight: thin;
+	font-size: 20px;
 }
 
 h1 {
-	font-size: 20px;
+	text-transform: uppercase;
+	font-size: 40px;
 	font-weight: bold;
+	margin-bottom: -30px;
 }
 
+ul { 
+	padding: 0px
+	margin: 0px;
+	display: inline-block;
+	text-align:left;
+	width: 300px;
 }
-hr {
-	width: 500px;
-	}
 
+#contact {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+#slogan {
+	font-style: italic;
+	font-size: 20px;
+	color: #32CD32;
+	letter-spacing: 24px;
+}
+a:link {
+	color: #32CD32;
+}
+
+div {
+	text-align: center;
+}
